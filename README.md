@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'm Isacco Bertoli, Full Stack & Blockchain Developer | Building Digital Solutions in Bergamo, Italy </h3>
+<h3 align="center">I'm Isacco Bertoli, Full Stack | Building Digital Solutions in Bergamo, Italy </h3>
 
 ---
 
